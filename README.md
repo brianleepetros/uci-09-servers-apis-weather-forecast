@@ -1,4 +1,6 @@
-#uci-09-servers-apis-weather-forecast
+# uci-09-servers-apis-weather-forecast
+## A weather dashboard application that calls the OpenWeather API and renders data in the browser.
+## On Render at https://uci-09-servers-apis-weather-forecast.onrender.com
 
 
 # 09 Servers and APIs: Weather Dashboard
